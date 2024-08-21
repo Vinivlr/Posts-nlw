@@ -11,7 +11,7 @@ export function Sidebar() {
             />
        
             <div className={styles.profile}>
-                <img className={styles.avatar}  src="https://github.com/Vinivlr.png" alt="" />
+                <img className={styles.avatar}  src="https://github.com/vinisousadev.png" alt="" />
 
                 <strong> Vinicius Sousa</strong>
                 <span>Web Developer</span>
